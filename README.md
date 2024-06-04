@@ -1,0 +1,1 @@
+Simple base project for landing pages using pure JS
